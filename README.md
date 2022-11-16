@@ -28,3 +28,4 @@ Finally, here we can see here that the service is being used consistently throug
 
 ## Summary
 The bikesharing service has proved its usefulness in a place like New York City. Though Des Moines isn't as populated, it stands to reason that urban centers are open to alternatives to cars and even other public transportion options like busses or trains. 
+[link to dashboard](https://public.tableau.com/app/profile/austin3811/viz/14-Challenge_16684793037360/Story1?publish=yes)
